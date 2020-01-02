@@ -6,6 +6,6 @@ package org.cs.test;
  */
 public class Test111 {
     public static void main(String[] args) {
-        System.out.println("hahahah");
+        System.out.println("123123");
     }
 }
